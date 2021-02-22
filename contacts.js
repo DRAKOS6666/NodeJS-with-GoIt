@@ -60,6 +60,7 @@ const removeContact = (contactId) => {
     try {
 
         let fileForDelete = null
+
         fs.readFile(contactPath, (err, data) => {
             if (err) {
                 handleerror(err)

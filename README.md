@@ -6,3 +6,6 @@ https://prnt.sc/1046vtw
 
 "Add" contact action
 https://prnt.sc/1046zrz
+
+"Delete" contact action
+https://prnt.sc/1047bal
